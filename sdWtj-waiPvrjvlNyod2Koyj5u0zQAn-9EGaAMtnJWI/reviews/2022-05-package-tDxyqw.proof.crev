@@ -1,0 +1,22 @@
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2022-05-27T21:18:01.077946562-05:00"
+from:
+  id-type: crev
+  id: sdWtj-waiPvrjvlNyod2Koyj5u0zQAn-9EGaAMtnJWI
+  url: "https://github.com/aftix/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: dotenvy
+  version: 0.15.1
+  revision: ea1572ff164c2dfabcf3c8cafd32c93186ad047f
+  digest: 0fADwMhUr_I6ILMm6lRQefwijquBMrNS3ZCY1yZev_s
+review:
+  thoroughness: low
+  understanding: high
+  rating: positive
+----- SIGN CREV PROOF -----
+Gkm97JyMIDV6vkOONMI1d7pQsaMRh0pnGUTnSQrGmnldcXQ0YZFy_d0CQJJVp2uW4wlMfAZgkvNOmkzZ3X3ZCQ
+----- END CREV PROOF -----
+
